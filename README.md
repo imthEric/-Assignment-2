@@ -18,10 +18,10 @@ Users can perform operations through menus, view results and compare algorithm p
 
 | Full Name | Student ID | Assigned Responsibility |
 |---|---|---|
-| [Imthath – full name] | 23da2-0578 | Team leader, array, searching, input handling and integration |
-| [Sabreen – full name] | 23da2-0733 | Stack and queue |
-| [Darshani – full name] | 23da2-0965 | Graph and performance comparison |
-| [Lafra – full name] | 23da2-1118 | Linked list |
+| N M Imthath | 23da2-0578 | Team leader, array, searching, input handling and integration |
+| M S M Sabreen | 23da2-0733 | Stack and queue |
+| A M D R Adhikari | 23da2-0965 | Graph and performance comparison |
+| M L F lafra | 23da2-1118 | Linked list |
 
 ## Individual Contributions
 
